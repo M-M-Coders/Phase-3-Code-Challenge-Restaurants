@@ -203,8 +203,20 @@ Restaurant
 
    formatted as follows:
 
-[
+
 
  "Review for {insert restaurant name} by {insert customer's full name}: {insert review star_rating} stars.",
 
  "Review for {insert restaurant name} by {insert customer's full name}: {insert review star_rating} stars.",
+
+## Installation process
+Git clone the repository using the comand: "git clone (the repo url)"
+Open the repo in the code editor using the command: "code ."
+In terminal run the command: "pipenv install"
+Follow the commands given to install the necessary pip files.
+
+## Contact Information
+Email : jaredamima4@gmail.com
+
+## License
+MIT License Copyright (c) 2023 Jared amima
