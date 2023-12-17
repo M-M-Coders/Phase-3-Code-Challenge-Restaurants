@@ -219,4 +219,4 @@ Follow the commands given to install the necessary pip files.
 Email : jaredamima4@gmail.com
 
 ## License
-MIT License Copyright (c) 2023 Jared amima
+MIT License Copyright (c) 2023 Jared Amima
